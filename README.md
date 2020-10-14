@@ -1,5 +1,5 @@
 ![alt text](https://i.imgur.com/eiEV2VK.png "Hi")
-
+[![Discord](https://img.shields.io/discord/765993167744663612?color=7289da&label=Discord&logo=discord&logoColor=ffffff)](https://discord.gg/m4rcn7V)
 ### Requirements
 * [es_extended](https://github.com/esx-framework/es_extended)
 * [esx_ambulancejob](https://github.com/esx-framework/esx_AmbulanceJob)
