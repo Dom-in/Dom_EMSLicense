@@ -6,3 +6,6 @@
 3. Start script in server.cfg `start Dom_EMSLicense`.
 4. Change Stuff In Config.
 5. Enjoy!
+
+### In-game appearance
+Soon
