@@ -1,4 +1,4 @@
-###Dom_EMSLicense
+<div align="center"> ### Dom_EMSLicense
 
 #### Installation Guide
 1. Clone the repository or download the [latest version](../../releases/latest).
