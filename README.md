@@ -1,4 +1,4 @@
-![alt text](https://i.imgur.com/9kGmIxw.png "Logo Title Text 1")
+![alt text](https://i.imgur.com/eiEV2VK.png "Hi")
 
 #### Installation Guide
 1. Clone the repository or download the [latest version](../../releases/latest).
