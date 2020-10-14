@@ -1,4 +1,4 @@
-<font size="6"><div align="center"> Dom_EMSLicense </div></font>
+![alt text](https://i.imgur.com/9kGmIxw.png "Logo Title Text 1")
 
 #### Installation Guide
 1. Clone the repository or download the [latest version](../../releases/latest).
