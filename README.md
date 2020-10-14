@@ -1,4 +1,4 @@
-<div align="center"> ### Dom_EMSLicense
+<span style="font-size:100em;"><div align="center"> Dom_EMSLicense </div></span>
 
 #### Installation Guide
 1. Clone the repository or download the [latest version](../../releases/latest).
