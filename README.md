@@ -1,5 +1,10 @@
 ![alt text](https://i.imgur.com/eiEV2VK.png "Hi")
 
+### Requirements
+[es_extended](../../releases/latest)
+
+[esx_ambulancejob](../../releases/latest)
+
 #### Installation Guide
 1. Clone the repository or download the [latest version](../../releases/latest).
 2. Place inside your server's `resources` directory.
