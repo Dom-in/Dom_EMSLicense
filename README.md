@@ -20,3 +20,7 @@ This script will allow you to show license that you are a medic if you are not i
 Soon
 
 ### Change Log
+v1.1
+* Added Binding Licence Under A Key
+* Script Update Checker
+* Decide if you want to auto add item when user got ambulance job
