@@ -18,3 +18,5 @@ This script will allow you to show license that you are a medic if you are not i
 
 ### In-game appearance
 Soon
+
+### Change Log
