@@ -16,7 +16,3 @@ Config.Locale = 'en'
 -- Should Item Be Added Automatically? 
 -- false = No true = Yes
 Config.itemautomat = true
--- Allow License Under Key
-Config.showbind = false
--- Binded Key To Show License
-Config.bind = Keys['L']
