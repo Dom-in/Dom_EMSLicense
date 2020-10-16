@@ -10,8 +10,8 @@ This script will allow you to show license that you are a medic if you are not i
 
 ### Installation Guide
 1. Clone the repository or download the [latest version](../../releases/latest).
-2. Upload sql to your mysql.
-3. Place inside your server's `resources` directory.
+2. Add `emslicense` to your sql.
+3. Place script inside your server's `resources` directory.
 4. Start script in server.cfg `start Dom_EMSLicense`.
 5. Change Stuff In Config.
 6. Enjoy!
