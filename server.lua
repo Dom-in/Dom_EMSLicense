@@ -25,16 +25,16 @@ RegisterServerEvent('Dom_EMSLicense:giveitem')
 AddEventHandler('Dom_EMSLicense:giveitem', function()
 	local XPlayer = ESX.GetPlayerFromId(source)
 
-	local qtty = XPlayer.getInventoryItem('licencja_ems').count
+	local qtty = XPlayer.getInventoryItem('emslicense').count
 	if qtty > 1 then
-		XPlayer.removeInventoryItem('licencja_ems', 1)
+		XPlayer.removeInventoryItem('emslicense', 1)
 
 	elseif qtty < 1 then
-		XPlayer.addInventoryItem('licencja_ems', 1)
+		XPlayer.addInventoryItem('emslicense', 1)
 	end
 end)
 
-ESX.RegisterUsableItem('licencja_ems', function(source)
+ESX.RegisterUsableItem('emslicense', function(source)
 	local _source = source
 	local xPlayer = ESX.GetPlayerFromId(_source)
 	local job = xPlayer.job
