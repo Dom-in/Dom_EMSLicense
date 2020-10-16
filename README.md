@@ -17,4 +17,4 @@ This script will allow you to show license that you are a medic if you are not i
 6. Enjoy!
 
 ### In-game appearance
-![alt text](https://i.imgur.com/x4er2vC.png "Hi")![alt text](https://i.imgur.com/WAWQAJc.png "Hi")
+![alt text](https://i.imgur.com/QrnvYJp.png "Hi")
