@@ -1,6 +1,6 @@
 ![alt text](https://i.imgur.com/eiEV2VK.png "Hi")
 [![Discord](https://img.shields.io/discord/765993167744663612?color=7289da&label=Discord&logo=discord&logoColor=ffffff)](https://discord.gg/m4rcn7V)
-*
+
 ### Information
 This script will allow you to show license that you are a medic if you are not it will say that your license is invalid. You can use it as item. 
 
