@@ -5,8 +5,8 @@
 This script will allow you to show license that you are a medic if you are not it will say that your license is invalid. You can use it as item. 
 
 ### Requirements
-* [es_extended](https://github.com/esx-framework/es_extended)
-* [esx_ambulancejob](https://github.com/esx-framework/esx_AmbulanceJob)
+* [es_extended V1](https://github.com/esx-framework/es_extended)
+* [esx_ambulancejob](https://github.com/lockdownstudio/esx_ambulancejob)
 
 ### Installation Guide
 1. Clone the repository or download the [latest version](../../releases/latest).
